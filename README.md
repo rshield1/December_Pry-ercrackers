@@ -1,7 +1,7 @@
 # December_Pry-ercrackers
 This group represents the December 9th's Flatiron Software Engineering cohort.
 
-Clone repository to your computer
+Make a pull request and add to your files
 Open Pryercrackers.rb file
 add your own personal method
 make any changes you will necessary
